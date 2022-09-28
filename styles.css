@@ -1,0 +1,63 @@
+body {
+    background-color: #1F2937;
+    color: #ffffff;
+    text-align: center;
+    width: 500px;
+    margin: 300px auto;
+}
+
+.hero-section { 
+    display: flex;
+    flex-direction: column;
+}
+
+.generate-section{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    margin: 0 auto;
+}
+
+#generate-btn {
+    background-color: #10B981;
+    color: #ffffff;
+    border: 1px solid #10B981;
+    border-radius: 6px;
+    padding: 5px 15px;
+    margin-top: 15px;
+}
+
+label {
+    margin-bottom: 10px;
+}
+
+input {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.password-section {
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-evenly; 
+    align-items: center; 
+}
+
+.btn-el {
+    background-color: #273549;
+    color: #10B981;
+    border: 1px solid #1F2937;
+    margin: 0 10px;
+    padding: 20px 85px;
+    border-radius: 6px;
+}
+
+.color-el {
+    color: #10B981;
+}
+
+.bar {
+    width: 400px;
+    margin: 25px auto;
+    border-top: 5px solid #273549;
+}
