@@ -61,3 +61,7 @@ input {
     margin: 25px auto;
     border-top: 5px solid #273549;
 }
+
+.btn-el {
+  padding: 10px 30px;
+}
